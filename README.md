@@ -1,9 +1,7 @@
 
-<div align="center">
-  <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/your-profile">David</a> 🧠⚡</h1>
-</div>
+![Header](./david.png)
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.jpg" width="100%" />
+
 
 ## 🚹 About Me
 
