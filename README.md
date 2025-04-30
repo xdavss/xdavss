@@ -60,8 +60,8 @@ A **Bluetooth-connected companion app** for real-time therapy control and monito
 
 <p align="center">
 <a href="https://github.com/your-username">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xdavss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xdavss&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
