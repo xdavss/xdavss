@@ -71,7 +71,7 @@ A **Bluetooth-connected companion app** for real-time therapy control and monito
 
 - 🧙 I think code is the closest thing we have to real magic  
 - 🚗 I believe cars and software have one thing in common: both run best when finely tuned  
-- 🎮 Favorite debugging soundtrack? Harry Potter OST or engine revs
+
 
 ---
 
